@@ -2,4 +2,4 @@
 
 Generate word cloud image from word frequencies
 
-(word cloud.jpg)
+![Word Cloud](word cloud.png)
