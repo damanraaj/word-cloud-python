@@ -2,4 +2,5 @@
 
 Generate word cloud image from word frequencies
 
-![Word Cloud](word cloud.png)
+![Word Cloud](word-cloud-heart-darkness.png)
+
